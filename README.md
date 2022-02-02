@@ -14,8 +14,7 @@
       - Electromagnetics 
     
 - 🌱 Currently Learning: \
-      - Javascript (React) \
-      - IPFS 
+      - Solana
 
 - 📫 How to reach me: \
       - School Email: juangabriel.rivas@uga.edu \
