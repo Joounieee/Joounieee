@@ -15,6 +15,10 @@
     
 - 🌱 Currently Learning: \
       - Solana
+      - Containers for Rasperry Pi (Docker)
+
+- 😈 Soon to Learn: \
+      - Making Discord Bot
 
 - 📫 How to reach me: \
       - School Email: juangabriel.rivas@uga.edu \
