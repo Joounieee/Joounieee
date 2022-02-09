@@ -14,7 +14,7 @@
       - Electromagnetics 
     
 - 🌱 Currently Learning: \
-      - Solana
+      - Solana \
       - Containers for Rasperry Pi (Docker)
 
 - 😈 Soon to Learn: \
