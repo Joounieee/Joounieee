@@ -14,11 +14,12 @@
       - Electromagnetics 
     
 - 🌱 Currently Learning: \
-      - Solana \
-      - Containers for Rasperry Pi (Docker)
+      - Containers for Rasperry Pi (Docker) \
+      - TCP and UDP
 
 - 😈 Soon to Learn: \
-      - Making Discord Bot
+      - Making Discord Bot \
+      - Solana
 
 - 📫 How to reach me: \
       - School Email: juangabriel.rivas@uga.edu \
