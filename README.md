@@ -21,9 +21,15 @@
       - Making Discord Bot \
       - Solana
 
-- 📫 How to reach me: \
+- 🎮 Hobbies: \
+      - Video games (VALORANT, Genshin Impact, Minecraft, ROBLOX) \
+      - Anime -- Fav: Attack on Titan \
+      - Manga -- Fav: Chainsaw Man
+
+- 📫 My links/profiles: \
       - School Email: juangabriel.rivas@uga.edu \
-      - Discord: Joounieee #1735 
+      - Discord: Joounieee #1735 \
+      - MyAnimeList (MAL): https://myanimelist.net/profile/Joounieee
 
 <!---
 Joounieee/Joounieee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
