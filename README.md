@@ -16,7 +16,7 @@
       - Electromagnetics 
     
 - 🌱 Currently Learning: \
-      - Containers for Rasperry Pi (Docker) \
+      - Containers for Raspberry Pi (Docker) \
       - TCP and UDP
 
 - 😈 Soon to Learn: \
