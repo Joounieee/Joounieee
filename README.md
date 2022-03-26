@@ -16,12 +16,11 @@
       - Electromagnetics 
     
 - 🌱 Currently Learning: \
-      - Containers for Raspberry Pi (Docker) \
-      - TCP and UDP
+      - Docker Secrets on Raspberry Pi \
+      - Making Discord Bot
 
 - 😈 Soon to Learn: \
-      - Making Discord Bot \
-      - Solana
+      - 
 
 - 🎮 Hobbies: \
       - Video games (VALORANT, Genshin Impact, Minecraft, ROBLOX) \
