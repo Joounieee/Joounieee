@@ -20,7 +20,7 @@
       - Making Discord Bot
 
 - 😈 Soon to Learn: \
-      - 
+      - Creating firmware in C++ for custom keyboard using Raspberry Pi Pico
 
 - 🎮 Hobbies: \
       - Video games (VALORANT, Genshin Impact, Minecraft, ROBLOX) \
