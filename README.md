@@ -29,8 +29,7 @@
 
 - 📫 My links/profiles: \
       - School Email: juangabriel.rivas@uga.edu \
-      - Discord: Joounieee #1735 \
-      - MyAnimeList (MAL): https://myanimelist.net/profile/Joounieee
+      - Discord: Joounieee #1735 
 
 <!---
 Joounieee/Joounieee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
