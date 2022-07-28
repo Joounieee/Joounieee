@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joounieee! I'm a 3rd year undergraduate
+- 👋 Hi, I’m @Joounieee! I'm a 4th year undergraduate
      Computer Systems Engineering student at the
      University of Georgia (UGA). My goal is to pursue a PhD
      in Electrical and Computer Engineering researching in any
