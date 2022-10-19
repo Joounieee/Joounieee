@@ -6,14 +6,8 @@
 
 - 👀 Interests: \
       - Computer Architecture \
-      - Cryptography \
-      - Computational Science \
-      - Computer Networks (Web3.0) \
-      - Computer Vision \
       - Embedded Systems \
-      - VLSI Design \
-      - Signal Processing \
-      - Electromagnetics 
+      - VLSI Design 
     
 - 🌱 Currently Learning: \
       - Computer Architecture
