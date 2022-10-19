@@ -16,19 +16,19 @@
       - Electromagnetics 
     
 - 🌱 Currently Learning: \
-      - Docker Secrets on Raspberry Pi \
-      - Making Discord Bot
+      - Computer Architecture
 
 - 😈 Soon to Learn: \
-      - Creating firmware in C++ for custom keyboard using Raspberry Pi Pico
+      - TBD
 
 - 🎮 Hobbies: \
-      - Video games (VALORANT, Genshin Impact, Minecraft, ROBLOX) \
+      - Video games (VALORANT, Genshin Impact, OW2, Minecraft, ROBLOX) \
       - Anime -- Fav: Attack on Titan \
-      - Manga -- Fav: Chainsaw Man
+      - Manga -- Fav: Chainsaw Man \
+      - Language Learning
 
 - 📫 My links/profiles: \
-      - School Email: juangabriel.rivas@uga.edu \
+      - School Email: juanrivas.c.and.f@gmail.com \
       - Discord: Joounieee #1735 
 
 <!---
