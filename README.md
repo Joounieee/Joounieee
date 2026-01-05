@@ -17,7 +17,7 @@
 
 - 🎮 Hobbies: \
       - Video games (Honkai: Star Rail, Genshin Impact, VALORANT, Overwatch 2) \
-      - Cars ('24 Elantra N owner) \
+      - Cars ('24 Elantra N, '91 Miata) \
       - Anime -- Fav: Vinland Saga \
       - Manga -- Fav: Chainsaw Man \
       - Language Learning
